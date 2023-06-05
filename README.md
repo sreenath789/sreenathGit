@@ -1,2 +1,1 @@
-# sreenathGit
-Demo
+##Markdown is a scripting language that is very lightweight. It is used to format plain text to a respective design. Markdowns are rapidly used in content writing in some blog post web sites. It converts some plain text to the desired format in HTML. The simplicity and easy to understand is making the markdown more popular. It takes all the text from the markdown file and converts to HTML through a markdown app or a compiler.
